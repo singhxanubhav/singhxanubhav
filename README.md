@@ -2,7 +2,7 @@
 <a
 href="https://github.com/singhxanubhav">
 <img 
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=120&pause=1000&color=6B54F7&center=true&vCenter=true&repeat=false&width=1920&height=130&lines=Hello%2C+I'm+Ronit" alt="Typing SVG" 
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=120&pause=1000&color=6B54F7&center=true&vCenter=true&repeat=false&width=1920&height=130&lines=Hello%2C+Hi, I am Anubhav Singh, A Full Stack Developer." alt="Typing SVG" 
 alt="Hi, I am Anubhav Singh, A Full Stack Developer." /></a>
 
 
