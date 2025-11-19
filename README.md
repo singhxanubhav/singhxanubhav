@@ -19,23 +19,40 @@ Hi, I am Anubhav Singh, A Full Stack Developer.
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anubhavxsingh) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anubhavsinghbkj@gmail.com) 
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+# Tech Stack & Tools
+### Programming Languages
+[![Language](https://iconkit.ronitghosh.site/icons?i=typescript&t=dark)](https://www.typescriptlang.org/)
+[![Language](https://iconkit.ronitghosh.site/icons?i=javascript&t=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+### Frameworks
+[![Backend Development](https://iconkit.ronitghosh.site/icons?i=nodejs&t=dark)](https://nodejs.org/en)
+[![Backend Development](https://iconkit.ronitghosh.site/icons?i=express&t=dark)](https://expressjs.com/)
+[![Backend Development](https://iconkit.ronitghosh.site/icons?i=hono&t=dark)](https://github.com/ronit-ghosh)
+[![Backend Development](https://iconkit.ronitghosh.site/icons?i=zod&t=dark)](https://github.com/ronit-ghosh)
+[![Backend Development](https://iconkit.ronitghosh.site/icons?i=prisma&t=dark)](https://github.com/ronit-ghosh)
+[![Backend Development](https://iconkit.ronitghosh.site/icons?i=postgres&t=dark)](https://github.com/ronit-ghosh)
+[![Backend Development](https://iconkit.ronitghosh.site/icons?i=mongodb&t=dark)](https://github.com/ronit-ghosh)
+[![Backend Development](https://iconkit.ronitghosh.site/icons?i=firebase&t=dark)](https://github.com/ronit-ghosh)
+[![Frontend Development](https://iconkit.ronitghosh.site/icons?i=nextjs&t=dark)](https://github.com/ronit-ghosh)
+[![Frontend Development](https://iconkit.ronitghosh.site/icons?i=react&t=dark)](https://github.com/ronit-ghosh)
+[![Frontend Development](https://iconkit.ronitghosh.site/icons?i=expo&t=dark)](https://github.com/ronit-ghosh)
+[![Frontend Development](https://iconkit.ronitghosh.site/icons?i=zustand&t=dark)](https://github.com/ronit-ghosh)
+[![Frontend Development](https://iconkit.ronitghosh.site/icons?i=recoil&t=dark)](https://github.com/ronit-ghosh)
+[![Frontend Development](https://iconkit.ronitghosh.site/icons?i=tailwind&t=dark)](https://github.com/ronit-ghosh)
+
+### Other Tools
+[![Other Tools](https://iconkit.ronitghosh.site/icons?i=docker&t=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://iconkit.ronitghosh.site/icons?i=postman&t=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://iconkit.ronitghosh.site/icons?i=aws&t=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://iconkit.ronitghosh.site/icons?i=cloudflare&t=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://iconkit.ronitghosh.site/icons?i=vite&t=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://iconkit.ronitghosh.site/icons?i=git&t=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://iconkit.ronitghosh.site/icons?i=github&t=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://iconkit.ronitghosh.site/icons?i=bun&t=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://iconkit.ronitghosh.site/icons?i=npm&t=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://iconkit.ronitghosh.site/icons?i=pnpm&t=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://iconkit.ronitghosh.site/icons?i=cursor&t=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://iconkit.ronitghosh.site/icons?i=figma&t=dark)](https://github.com/ronit-ghosh)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=singhxanubhav&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
