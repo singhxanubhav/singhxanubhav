@@ -1,7 +1,3 @@
-<br clear="both"/>
-
----
-
 # 🌐 Portfolio Website
 
 <div align="center">
@@ -12,7 +8,7 @@
 
 <br/>
 
-<a href="https://anubhavsingh.site">
+<a href="https://anubhavsingh.online">
   <img
     src="https://api.microlink.io/?url=https://anubhavsingh.site&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark"
     alt="Portfolio Preview"
