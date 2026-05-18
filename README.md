@@ -1,115 +1,455 @@
-<!-- ULTRA ATTRACTIVE DARK THEME README -->
+````md
+<!-- ========================================= -->
+<!--          PREMIUM GITHUB README            -->
+<!-- ========================================= -->
 
 <div align="center">
 
-<!-- TITLE -->
-<h1 style="font-size: 3rem; font-weight: 700; background: linear-gradient(90deg,#00c6ff,#0072ff,#9d4edd,#ff00c8); -webkit-background-clip: text; color: transparent;">
-  👋 Hi, I'm Anubhav Singh
-</h1>
-
-<h3 style="color:#b3b3b3; font-weight:400;">
-  Full Stack Developer | Crafting Scalable Systems & Beautiful Experiences
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,50:6A5ACD,100:00BFFF&text=Anubhav%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20System%20Design%20•%20Cloud%20Engineering&descAlignY=60" />
 
 <br/>
 
-<!-- ANIMATED IMAGE -->
-<img alt="Coding" width="500" src="https://raw.githubusercontent.com/ProgrammerGaurav/AnimatedGifs/main/space-coding.gif" style="border-radius: 12px;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=👋+Hi%2C+I'm+Anubhav+Singh;Full+Stack+Developer;Building+Scalable+%26+Beautiful+Products;Next.js+%7C+TypeScript+%7C+Cloud+%7C+AI;Passionate+About+Performance+%26+Design" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=singhxanubhav&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img 
+  src="https://raw.githubusercontent.com/ProgrammerGaurav/AnimatedGifs/main/space-coding.gif"
+  width="700"
+  alt="Coding Animation"
+/>
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=singhxanubhav&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+  
+  <img src="https://img.shields.io/github/followers/singhxanubhav?style=for-the-badge&color=7c3aed&labelColor=0f172a" />
+
+  <img src="https://img.shields.io/github/stars/singhxanubhav?style=for-the-badge&color=06b6d4&labelColor=0f172a" />
+</p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-Hi, I'm **Anubhav Singh**, a passionate **Full Stack Developer** focused on  
-**Next.js, TypeScript, Prisma, Cloud Deployments, System Design & Performance Engineering.**
+<img align="right" alt="Coding" width="320" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
-✨ **What I Love Building**
-- ⚡ High-performance full-stack apps  
-- 🛢️ Complex database designs  
-- 🧩 Optimized backend logic  
-- 🎨 Seamless frontend UI/UX  
-- ☁ Production deployments on AWS / Docker  
+```ts
+const anubhav = {
+  role: "Full Stack Developer",
+  
+  expertise: [
+    "Frontend Engineering",
+    "Backend Development",
+    "System Design",
+    "Cloud Deployments",
+    "Performance Optimization"
+  ],
 
-📫 **Reach me:**  
-**`anubhavsinghbkj@gmail.com`**
+  techStack: {
+    frontend: ["Next.js", "React", "TailwindCSS"],
+    backend: ["Node.js", "Express", "Hono"],
+    database: ["PostgreSQL", "MongoDB", "Prisma"],
+    devops: ["Docker", "AWS", "Cloudflare"]
+  },
+
+  currentlyLearning: [
+    "Advanced System Design",
+    "Distributed Systems",
+    "AI Integrations",
+    "Scalable SaaS Architecture"
+  ],
+
+  funFact:
+    "I love building products that look premium and scale beautifully ⚡"
+};
+````
+
+<br clear="both"/>
 
 ---
 
-# 🌐 My Website
-
-### 👉 **https://anubhavsingh.site**
+# 🌐 Portfolio Website
 
 <div align="center">
+
+## 🚀 Visit My Portfolio
+
+### 👉 https://anubhavsingh.online
+
+<br/>
+
 <a href="https://anubhavsingh.site">
-  <img 
-    src="https://api.microlink.io/?url=https://anubhavsingh.site&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" 
-    alt="Website Preview"
-    width="85%"
-    style="border-radius: 16px; box-shadow: 0 0 25px rgba(0,0,0,0.7);"
+  <img
+    src="https://api.microlink.io/?url=https://anubhavsingh.site&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark"
+    alt="Portfolio Preview"
+    width="90%"
   />
 </a>
-</div>
-
----
-
-# 🌍 Socials
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavxsingh/) 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anubhavxsingh)
-[![Mail](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anubhavsinghbkj@gmail.com)
 
 </div>
 
 ---
 
-# 🛠 Tech Stack
-
-### 💻 Languages  
-[![TS](https://iconkit.ronitghosh.site/icons?i=typescript&t=dark)]()
-[![JS](https://iconkit.ronitghosh.site/icons?i=javascript&t=dark)]()
-
-### ⚙ Backend & DB
-[![Node](https://iconkit.ronitghosh.site/icons?i=nodejs&t=dark)]()
-[![Express](https://iconkit.ronitghosh.site/icons?i=express&t=dark)]()
-[![Hono](https://iconkit.ronitghosh.site/icons?i=hono&t=dark)]()
-[![Prisma](https://iconkit.ronitghosh.site/icons?i=prisma&t=dark)]()
-[![Postgres](https://iconkit.ronitghosh.site/icons?i=postgres&t=dark)]()
-[![Mongo](https://iconkit.ronitghosh.site/icons?i=mongodb&t=dark)]()
-
-### 🎨 Frontend
-[![Next](https://iconkit.ronitghosh.site/icons?i=nextjs&t=dark)]()
-[![React](https://iconkit.ronitghosh.site/icons?i=react&t=dark)]()
-[![Tailwind](https://iconkit.ronitghosh.site/icons?i=tailwind&t=dark)]()
-
-### 🧰 Tools
-[![Docker](https://iconkit.ronitghosh.site/icons?i=docker&t=dark)]()
-[![AWS](https://iconkit.ronitghosh.site/icons?i=aws&t=dark)]()
-[![Cloudflare](https://iconkit.ronitghosh.site/icons?i=cloudflare&t=dark)]()
-[![GitHub](https://iconkit.ronitghosh.site/icons?i=github&t=dark)]()
-[![Cursor](https://iconkit.ronitghosh.site/icons?i=cursor&t=dark)]()
-[![Figma](https://iconkit.ronitghosh.site/icons?i=figma&t=dark)]()
-
----
+# 🤝 Connect With Me
 
 <div align="center">
 
-# 📊 GitHub Stats
+<a href="https://www.linkedin.com/in/anubhavxsingh/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=singhxanubhav&theme=tokyonight&hide_border=true&show_icons=true" width="60%" />
+<a href="https://x.com/anubhavxsingh">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:anubhavsinghbkj@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://anubhavsingh.site">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/singhxanubhav">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+## 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp" />
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,html,css" />
+</p>
+
+---
+
+## ⚙ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,firebase" />
+</p>
+
+---
+
+## ☁ DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,nginx,githubactions" />
+</p>
+
+---
+
+## 🛠 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux" />
+</p>
+
+</div>
+
+---
+
+# 🚀 Featured Expertise
+
+<div align="center">
+
+| 💡 Domain            | ⚡ Skills            ````md
+<!-- ========================================= -->
+<!--          PREMIUM GITHUB README            -->
+<!-- ========================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,50:6A5ACD,100:00BFFF&text=Anubhav%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20System%20Design%20•%20Cloud%20Engineering&descAlignY=60" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=👋+Hi%2C+I'm+Anubhav+Singh;Full+Stack+Developer;Building+Scalable+%26+Beautiful+Products;Next.js+%7C+TypeScript+%7C+Cloud+%7C+AI;Passionate+About+Performance+%26+Design" />
+
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=singhxanubhav&theme=tokyonight&hide_border=true" width="60%" />
+<img 
+  src="https://raw.githubusercontent.com/ProgrammerGaurav/AnimatedGifs/main/space-coding.gif"
+  width="700"
+  alt="Coding Animation"
+/>
+
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhxanubhav&theme=tokyonight&hide_border=true&layout=compact" width="45%" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=singhxanubhav&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+  
+  <img src="https://img.shields.io/github/followers/singhxanubhav?style=for-the-badge&color=7c3aed&labelColor=0f172a" />
+
+  <img src="https://img.shields.io/github/stars/singhxanubhav?style=for-the-badge&color=06b6d4&labelColor=0f172a" />
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+
+```ts
+const anubhav = {
+  role: "Full Stack Developer",
+  
+  expertise: [
+    "Frontend Engineering",
+    "Backend Development",
+    "System Design",
+    "Cloud Deployments",
+    "Performance Optimization"
+  ],
+
+  techStack: {
+    frontend: ["Next.js", "React", "TailwindCSS"],
+    backend: ["Node.js", "Express", "Hono"],
+    database: ["PostgreSQL", "MongoDB", "Prisma"],
+    devops: ["Docker", "AWS", "Cloudflare"]
+  },
+
+  currentlyLearning: [
+    "Advanced System Design",
+    "Distributed Systems",
+    "AI Integrations",
+    "Scalable SaaS Architecture"
+  ],
+
+  funFact:
+    "I love building products that look premium and scale beautifully ⚡"
+};
+````
+
+<br clear="both"/>
+
+---
+
+# 🌐 Portfolio Website
+
+<div align="center">
+
+## 🚀 Visit My Portfolio
+
+### 👉 https://anubhavsingh.online
+
+<br/>
+
+<a href="https://anubhavsingh.site">
+  <img
+    src="https://api.microlink.io/?url=https://anubhavsingh.site&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark"
+    alt="Portfolio Preview"
+    width="90%"
+  />
+</a>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anubhavxsingh/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/anubhavxsingh">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:anubhavsinghbkj@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://anubhavsingh.site">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/singhxanubhav">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+## 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp" />
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,html,css" />
+</p>
+
+---
+
+## ⚙ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,firebase" />
+</p>
+
+---
+
+## ☁ DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,nginx,githubactions" />
+</p>
+
+---
+
+## 🛠 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux" />
+</p>
+
+</div>
+
+---
+
+# 🚀 Featured Expertise
+
+<div align="center">
+
+| 💡 Domain            | ⚡ Skills                       |
+| -------------------- | ------------------------------ |
+| Frontend Engineering | Next.js, React, Tailwind       |
+| Backend Systems      | Node.js, APIs, Authentication  |
+| Database Design      | PostgreSQL, Prisma, MongoDB    |
+| Cloud & DevOps       | AWS, Docker, CI/CD             |
+| Performance          | Optimization, Scaling, Caching |
+| Product Design       | Modern UI/UX Experiences       |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=singhxanubhav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+/>
+
+<img
+width="49%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=singhxanubhav&theme=tokyonight&hide_border=true&background=0D1117"
+/>
+
+<br/><br/>
+
+<img
+width="42%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhxanubhav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=singhxanubhav&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=7"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=singhxanubhav&theme=tokyo-night&hide_border=true&bg_color=0D1117"
+/>
+
+</div>
+
+---
+
+# 🧠 Currently Exploring
+
+<div align="center">
+
+| 🔥 Learning            | 🚀 Building              |
+| ---------------------- | ------------------------ |
+| Advanced System Design | AI SaaS Platforms        |
+| Distributed Systems    | FinTech Applications     |
+| Cloud Infrastructure   | Scalable Full Stack Apps |
+| AI Integrations        | Modern Developer Tools   |
+
+</div>
+
+---
+
+# ☕ Support Me
+
+<div align="center">
+
+<a href="https://buymeacoffee.com/">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Visitor Counter
+
+<div align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=singhxanubhav&icon=5&color=12&theme=dark"/>
+
+</div>
+
+---
+
+# ✨ Quote
+
+<div align="center">
+
+> ### “Code. Build. Scale. Repeat.”
 
 </div>
 
@@ -117,9 +457,122 @@ Hi, I'm **Anubhav Singh**, a passionate **Full Stack Developer** focused on
 
 <div align="center">
 
-### 👁 Visitor Count  
-[![](https://visitcount.itsvg.in/api?id=singhxanubhav&icon=5&color=6&theme=dark)](https://visitcount.itsvg.in)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:8A2BE2,50:6A5ACD,100:00BFFF&section=footer"/>
+
+</div>
+```
+           |
+| -------------------- | ------------------------------ |
+| Frontend Engineering | Next.js, React, Tailwind       |
+| Backend Systems      | Node.js, APIs, Authentication  |
+| Database Design      | PostgreSQL, Prisma, MongoDB    |
+| Cloud & DevOps       | AWS, Docker, CI/CD             |
+| Performance          | Optimization, Scaling, Caching |
+| Product Design       | Modern UI/UX Experiences       |
 
 </div>
 
 ---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=singhxanubhav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+/>
+
+<img
+width="49%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=singhxanubhav&theme=tokyonight&hide_border=true&background=0D1117"
+/>
+
+<br/><br/>
+
+<img
+width="42%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhxanubhav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=singhxanubhav&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=7"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=singhxanubhav&theme=tokyo-night&hide_border=true&bg_color=0D1117"
+/>
+
+</div>
+
+---
+
+# 🧠 Currently Exploring
+
+<div align="center">
+
+| 🔥 Learning            | 🚀 Building              |
+| ---------------------- | ------------------------ |
+| Advanced System Design | AI SaaS Platforms        |
+| Distributed Systems    | FinTech Applications     |
+| Cloud Infrastructure   | Scalable Full Stack Apps |
+| AI Integrations        | Modern Developer Tools   |
+
+</div>
+
+---
+
+# ☕ Support Me
+
+<div align="center">
+
+<a href="https://buymeacoffee.com/">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Visitor Counter
+
+<div align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=singhxanubhav&icon=5&color=12&theme=dark"/>
+
+</div>
+
+---
+
+# ✨ Quote
+
+<div align="center">
+
+> ### “Code. Build. Scale. Repeat.”
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:8A2BE2,50:6A5ACD,100:00BFFF&section=footer"/>
+
+</div>
+```
